@@ -4,5 +4,8 @@ using namespace std;
 
 int main()
 {
-	cout << "Vlad";
+	cout << "Vlad is samui best" << endl << "Do you soglasen?" << endl;
+	string a;
+	cin >> a;
+	
 }
