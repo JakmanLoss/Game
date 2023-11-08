@@ -2,6 +2,19 @@
 
 using namespace std;
 
-int main(){
-	return 0;
+int main()
+{
+	cout << "Паша папаша";
+    cout << 2;
+    cout << 3;
+    return 0;
+    cout << 2;
+    cout << 3;
+    return 0;
+    cout << 2;
+    cout << 3;
+    return 0;
+    cout << 2;
+    cout << 3;
+    return 0;
 }
