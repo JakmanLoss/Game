@@ -4,17 +4,5 @@ using namespace std;
 
 int main()
 {
-	cout << "Паша папаша";
-    cout << 2;
-    cout << 3;
-    return 0;
-    cout << 2;
-    cout << 3;
-    return 0;
-    cout << 2;
-    cout << 3;
-    return 0;
-    cout << 2;
-    cout << 3;
-    return 0;
+	cout << "Vlad";
 }
